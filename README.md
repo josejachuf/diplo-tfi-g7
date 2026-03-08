@@ -18,6 +18,9 @@ El sistema surge de la necesidad de organismos de seguridad vial y operadores de
 
 El proyecto está dividido en dos componentes principales que se comunican de forma asincrónica:
 
+<img width="2088" height="707" alt="imagen" src="https://github.com/user-attachments/assets/3fbd92df-f831-4e81-97a9-8a6139404419" />
+
+
 ### 1. Backend (Motor de Inferencia)
 Desarrollado en **Rust**, se encarga de la lógica de negocio y la ejecución del modelo de IA en formato ONNX. 
 * **Repositorio:** [josejachuf/predictor-accidentes](https://github.com/josejachuf/predictor-accidentes)
