@@ -38,6 +38,8 @@ La solución está diseñada para ejecutarse en entornos de alta disponibilidad 
 - **Contenedores:** Jails administradas mediante **Bastille**.
 - **Servidor Web:** Nginx actuando como Proxy Inverso.
 - **Modelo:** Inferencia nativa mediante la librería `tract` (sin dependencia de Python en producción).
+* **Repositorio:** [josejachuf/diplo-tfi-g7-bastille](https://github.com/josejachuf/diplo-tfi-g7-bastille)
+
 
 ---
 
