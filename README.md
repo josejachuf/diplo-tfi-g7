@@ -56,4 +56,5 @@ La solución está diseñada para ejecutarse en entornos de alta disponibilidad 
 ---
 
 ## 📄 Documentación
-Para una comprensión profunda de la metodología, el marco ético (ISO 42001) y el análisis de datos realizado, consulte el informe técnico completo incluido en la documentación de este repositorio.
+
+https://drive.google.com/drive/folders/12ZBgWGgOrYC3WO-prEwVIMm3nmMWauvU
